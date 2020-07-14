@@ -8,7 +8,19 @@ Vita is based on an nRF52840 module from Raytac. The first prototype is manually
 
 ## Adafruit nRF bootloader
 
+### Clone the repo
+
+```
+git clone https://github.com/adafruit/Adafruit_nRF52_Bootloader
+cd Adafruit_nRF52_Bootloader
+git submodule update --init
+```
+
 This is a UF2 bootloader. Still have to understand some details. The build is OK.
+
+* DFU over serial and OTA (app, bootloader+SoftDevice)
+* Self-upgradable via seial and OTA
+* DFU using UF2 for app
 
 ### build ikigaisense_vita
 
@@ -30,7 +42,7 @@ make BOARD=ikigaisense_vita sd
 
 ## Reference
 
-To set up the build environment, at least you have to build Adafruit nRF Utility and make it available in your PATH. Then you may need NordicSemi nrfprog.
+To set up the build environment, at least you have to build Adafruit nRF Utility and make it available in your PATH. Python3 is required. Then you may need NordicSemi nrfprog.
 
 ```
 ~/Adafruit_nRF52_nrfutil/nordicsemi/dist
