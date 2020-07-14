@@ -4,7 +4,7 @@ Notes about the build of Vita board.
 
 ## Vita Hardware
 
-Vita is based a nRF52840 module by Raytac. The first prototype is manual assembled. It seems OK after flashing the UF2 bootloader to it with BMP.
+Vita is based on an nRF52840 module from Raytac. The first prototype is manually assembled. It seems OK after flashing the UF2 bootloader to it with BMP.
 
 ## Adafruit nRF bootloader
 
