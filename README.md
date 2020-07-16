@@ -1,6 +1,6 @@
 # Vita board
 
-Notes on the build process of Vita board. Some pictures are [here](/vita-hw.md).
+Notes on the build process of Vita board. Some pictures are [here](https://github.com/IkigaiSense/vita-hw/blob/master/vita-build.md).
 
 - [ ] first prototype assembly
   - [x] BLE module soldering OK
