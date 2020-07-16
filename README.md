@@ -1,6 +1,6 @@
 # Vita board
 
-Notes about the process of building Vita board.
+Notes on the build process of Vita board. Some pictures are [here](/vita-hw.md).
 
 - [ ] first prototype assembly
   - [x] BLE module soldering OK
@@ -9,7 +9,16 @@ Notes about the process of building Vita board.
   - [ ] Accelerometer tested 
   - [ ] CircuitPython is built and loaded
   - [ ] daughter board assembly
+  - [ ] daughter board preliminary test
+  - [ ] build/load zephyr for nRF52840
 - [ ] what to change for the second prototype   
+  - [ ] what rechargeable battery to add
+  - [ ] nRF52840 is able to handle the computation
+  - [ ] what are other options, wireless link, algo, and hw?
+- [ ] patch design and hardware changes
+- [ ] iOS app development
+- [ ] android app development
+- [ ] integration test
 
 ## Vita Hardware
 
