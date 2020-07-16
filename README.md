@@ -1,6 +1,15 @@
 # Vita board
 
-Notes about the build of Vita board.
+Notes about the process of building Vita board.
+
+- [ ] first prototype assembly
+  - [x] BLE module soldering OK
+  - [x] UF2 bootloader tested OK
+  - [ ] Accelerometer soldered
+  - [ ] Accelerometer tested 
+  - [ ] CircuitPython is built and loaded
+  - [ ] daughter board assembly
+- [ ] what to change for the second prototype   
 
 ## Vita Hardware
 
