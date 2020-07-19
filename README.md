@@ -1,5 +1,10 @@
 # Vita board
 
+Ikigai is something worthy of doing. 
+You start from small. 
+You get better after mistake and practice.
+When you do it, you enjoy doing it. 
+
 Notes on the build process of Vita board. Some pictures are [here](https://github.com/IkigaiSense/vita-hw/blob/master/vita-build.md).
 
 - [ ] first prototype assembly
