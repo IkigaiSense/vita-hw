@@ -30,7 +30,7 @@ Vita may use FreeRTOS or Zephyr for firmware development.
 
 ## Vita Software
 
-Vita itself is a sensor hub. It requires a smart phone or tablet to do further processing and possible data transfer at the user's explicit consent. The user decide who and when to share his or her own health data.
+Vita itself is a sensor hub. It requires a smart phone or tablet to do further processing and possible data transfer at the user's explicit consent. The user decides with whom and when to share his or her own health data.
 
 So the mobile application has to be developed.
 
